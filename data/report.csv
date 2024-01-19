@@ -1,0 +1,8 @@
+timestamp,id,name,price,quantity,total
+Fri Jan 19 21:34:42 ICT 2024,1,Tomato,25.0,5,125.0
+Fri Jan 19 21:34:42 ICT 2024,3,Camera,3990.0,4,15960.0
+Fri Jan 19 21:34:42 ICT 2024,2,Chicken,115.5,2,231.0
+Fri Jan 19 21:38:07 ICT 2024,4,Toy,199.99,3,599.97
+Fri Jan 19 21:38:07 ICT 2024,6,Water,10.0,4,40.0
+Fri Jan 19 21:38:59 ICT 2024,5,Orange,179.0,197,35263.0
+Fri Jan 19 21:38:59 ICT 2024,3,Camera,3990.0,5,19950.0

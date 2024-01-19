@@ -28,6 +28,7 @@ public class Main {
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
             menuConsole();
             while (true) {
+                System.out.print("COMMAND: ");
                 String mode = bufferedReader.readLine();
                 switch (mode.toUpperCase()) {
                     case "L":
